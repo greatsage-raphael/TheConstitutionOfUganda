@@ -1,7 +1,9 @@
 {
   "index": "Preamble",
   "National": "National Objectives and Directive Principles of State Policy",
-  "advanced": "Advanced (A Folder)",
+  "chapter1": "Chapter One",
+  "chapter2": "Chapter Two",
+  "chapter3": "Chapter Three",
   "about": {
     "title": "About",
     "type": "page"
