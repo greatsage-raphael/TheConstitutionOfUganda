@@ -13,6 +13,13 @@
   "chapter10": "Chapter Ten",
   "chapter11": "Chapter Eleven",
   "chapter12": "Chapter Twelve",
+  "chapter13": "Chapter Thirteen",
+  "chapter14": "Chapter Fourteen",
+  "chapter15": "Chapter Fifteen",
+  "chapter16": "Chapter Sixteen",
+  "chapter17": "Chapter Seventeen",
+  "chapter18": "Chapter Eighteen",
+  "chapter19": "Chapter Nineteen",
   "about": {
     "title": "About",
     "type": "page"
@@ -20,7 +27,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://mwambazi-collins.vercel.app/",
     "newWindow": true
   }
 }
