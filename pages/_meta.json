@@ -1,4 +1,8 @@
-{
+{ 
+  "index": {
+  "title": "Home",
+  "type": "page"
+},
   "preamble": {
     "title": "Preamble",
     "type": "page"
