@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>The Constitution Of Uganda 📜</span>,
+  logo: <span> The Law Vault UG 🗃️</span>,
   project: {
     link: 'https://github.com/greatsage-raphael/TheConstitutionOfUganda',
   },
